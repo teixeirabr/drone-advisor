@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-project-drone-advisor",
+  "version": "1.0.0",
+  "description": "portfolio-project-nucamp-bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teixeirabr/drone-advisor.git"
+  },
+  "author": "Andre Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teixeirabr/drone-advisor/issues"
+  },
+  "homepage": "https://github.com/teixeirabr/drone-advisor#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.1"
+  }
+}
