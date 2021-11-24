@@ -4,3 +4,21 @@
   background-color: black;
   color: white;
 }
+
+.nav-color {
+  background-color: black;
+}
+
+.img-2 {
+  height: 400px;
+}
+
+.row-content {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: stretch;
+}
