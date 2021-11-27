@@ -1,12 +1,25 @@
 .jumbotron {
   margin: 0px;
-  padding: 30px;
+  padding: 0px;
   background-color: black;
   color: white;
 }
 
 .nav-color {
   background-color: black;
+}
+
+.nav-color-2 {
+  background-color: black;
+  color: white;
+}
+
+.bg-black {
+  background-color: black !important;
+}
+
+.nav-link {
+  color: white;
 }
 
 .img-2 {
@@ -21,4 +34,13 @@
   justify-content: space-between;
   align-items: center;
   align-content: stretch;
+}
+
+.login {
+  /* position: absolute; */
+  /* width: 100%;
+  top: 0;
+  z-index: -10; */
+  background: url(../img/splash.jpg);
+  background-size: cover;
 }
