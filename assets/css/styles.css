@@ -5,6 +5,10 @@
   color: white;
 }
 
+main {
+  margin-top: 90px;
+}
+
 .nav-color {
   background-color: black;
 }
